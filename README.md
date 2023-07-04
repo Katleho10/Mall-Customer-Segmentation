@@ -1,3 +1,3 @@
 ## Mall-Customer-Segmentation
 
-The main aim of this project is to understand the customers who can easily be a target market so that the it can be given to marketing team and plan the strategy accordingly
+The primary objective of this project is to gain a comprehensive understanding of potential customers who are likely to be part of the target market. This information will be provided to the marketing team to assist them in devising an appropriate strategy.
